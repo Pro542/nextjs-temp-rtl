@@ -1,0 +1,25 @@
+{
+  "name": "nextjs-temp-rtl",
+  "version": "1.0.0",
+  "description": "Temp repo to tinker with next js",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "eslint": "^3.12.2",
+    "express": "^4.16.2",
+    "jest": "^20.0.4",
+    "material-ui": "^0.19.4",
+    "next": "^4.1.4",
+    "next-routes": "^1.2.0",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1"
+  },
+  "devDependencies": {},
+  "author": "Pro542",
+  "license": "UNLICENSED"
+}
